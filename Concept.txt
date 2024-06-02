@@ -1,0 +1,1 @@
+This file contains the main idea behind this project. What was my approach behind making this project possible. How worked in this, etc.
